@@ -6,4 +6,4 @@ Big Data,
 Rstudio, 
 Installation of R,
 Version Control,
-Data Analysis.
+Data Analysis and its types.
