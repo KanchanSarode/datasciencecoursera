@@ -1,0 +1,9 @@
+
+Welcome to Data Scientist's Toolbox
+
+It will help to learn about 
+Big Data, 
+Rstudio, 
+Installation of R,
+Version Control,
+Data Analysis.
